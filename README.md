@@ -1,4 +1,5 @@
 # hello-world
-My first repository!
 
-Here is my first repository on this account. I created it entirely within GitHub interface using the instruction located at: https://guides.github.com/activities/hello-world
+I tried exploring the branch function of GitHub at this stage. 
+Initially, it copies everything about the main page and I can edit this branch page. 
+With that, overwrtiting could be avoided.
